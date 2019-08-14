@@ -1,0 +1,9 @@
+KTAPP_BIKE/MMS_UI/obj/
+KTAPP_BIKE/MMS_WebUI/obj/
+KTAPP_BIKE/MMS_WebUI/Web.Debug.config
+KTAPP_BIKE/MMS_WebUI/Web.Release.config
+KTAPP_BIKE/MMS_UI/bin/
+KTAPP_BIKE/MMS_DAO.cs/obj/
+KTAPP_BIKE/Entity/obj/
+KTAPP_BIKE/BO.cs/obj/
+KTAPP_BIKE/.vs/
